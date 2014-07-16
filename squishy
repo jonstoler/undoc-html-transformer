@@ -1,0 +1,10 @@
+Output "html.lua"
+
+Main "sources/snippets/fs.lua"
+Main "sources/snippets/serialize.lua"
+Main "sources/snippets/arguments.lua"
+Main "sources/snippets/highlightjs.lua"
+Main "sources/snippets/stylesheet.lua"
+Main "sources/snippets/categorize.lua"
+
+Main "sources/html.lua"
